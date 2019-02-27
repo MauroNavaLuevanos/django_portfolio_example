@@ -1,0 +1,184 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Mauro Nava <mauronavaluevanos63@gmail.com>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-08 17:49-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\CMS\admin.py:14
+msgid "General"
+msgstr "General"
+
+#: .\CMS\admin.py:25 .\CMS\models.py:28
+msgid "Contact"
+msgstr "Contacto"
+
+#: .\CMS\admin.py:36
+msgid "Welcome Section"
+msgstr "Sección de Bienvenida"
+
+#: .\CMS\admin.py:45
+msgid "Contact Section"
+msgstr "Sección de Contacto"
+
+#: .\CMS\models.py:14
+msgid "Site Name"
+msgstr "Nombre del Sitio"
+
+#: .\CMS\models.py:15 .\Capabilities\models.py:20 .\Capabilities\models.py:31
+#: .\Capabilities\models.py:63 .\Experiences\models.py:14
+#: .\Projects\models.py:24 .\Projects\models.py:34 .\Social\models.py:12
+msgid "Name"
+msgstr "Nombre"
+
+#: .\CMS\models.py:16
+msgid "In Development"
+msgstr "En Desarrollo"
+
+#: .\CMS\models.py:17 .\Projects\models.py:37
+msgid "Picture"
+msgstr "Imágen"
+
+#: .\CMS\models.py:21
+msgid "Phone"
+msgstr "Teléfono"
+
+#: .\CMS\models.py:24
+msgid "Welcome"
+msgstr "Bienvenida"
+
+#: .\CMS\models.py:25
+msgid "Job Title"
+msgstr "Título Profesional"
+
+#: .\Capabilities\models.py:23
+msgid "Capability Type"
+msgstr "Tipo de capacidad"
+
+#: .\Capabilities\models.py:24
+msgid "Capabilities Types"
+msgstr "Tipo de capacidades"
+
+#: .\Capabilities\models.py:33
+msgid "Level"
+msgstr "Nivel"
+
+#: .\Capabilities\models.py:41 .\Capabilities\models.py:65
+#: .\Experiences\models.py:39 .\Projects\models.py:35
+msgid "Description"
+msgstr "Descripción"
+
+#: .\Capabilities\models.py:45
+msgid "Type"
+msgstr "Tipo"
+
+#: .\Capabilities\models.py:55
+msgid "Capability"
+msgstr "Capacidad"
+
+#: .\Capabilities\models.py:56
+msgid "Capabilities"
+msgstr "Capacidades"
+
+#: .\Capabilities\models.py:64
+msgid "Order"
+msgstr ""
+
+#: .\Capabilities\models.py:66 .\Social\models.py:15
+msgid "Icon"
+msgstr "Icono"
+
+#: .\Capabilities\models.py:69
+msgid "Service"
+msgstr ""
+
+#: .\Capabilities\models.py:70
+msgid "Services"
+msgstr ""
+
+#: .\Experiences\models.py:17 .\Experiences\models.py:35
+#: .\Projects\models.py:43
+msgid "Company"
+msgstr "Compañía"
+
+#: .\Experiences\models.py:18
+msgid "Companies"
+msgstr "Compañías"
+
+#: .\Experiences\models.py:25
+msgid "Position"
+msgstr "Posición"
+
+#: .\Experiences\models.py:26
+msgid "Since"
+msgstr "Desde"
+
+#: .\Experiences\models.py:28
+msgid "Until"
+msgstr "Hasta"
+
+#: .\Experiences\models.py:46
+msgid "Experience"
+msgstr "Experiencia"
+
+#: .\Experiences\models.py:47
+msgid "Experiences"
+msgstr "Experiencias"
+
+#: .\Portfolio\settings.py:146
+msgid "English"
+msgstr "Inglés"
+
+#: .\Portfolio\settings.py:147
+msgid "Spanish"
+msgstr "Español"
+
+#: .\Projects\models.py:27 .\Projects\models.py:49
+msgid "Project Type"
+msgstr "Tipo de Proyecto"
+
+#: .\Projects\models.py:28
+msgid "Project Types"
+msgstr "Tipos de Projecto"
+
+#: .\Projects\models.py:53
+msgid "Date"
+msgstr ""
+
+#: .\Projects\models.py:70
+msgid "Project"
+msgstr "Proyecto"
+
+#: .\Projects\models.py:71
+msgid "Projects"
+msgstr "Proyectos"
+
+#: .\Social\models.py:22
+msgid "Social Network"
+msgstr "Red Social"
+
+#: .\Social\models.py:23
+msgid "Social Networks"
+msgstr "Redes Sociales"
+
+#~ msgid "Knowledge"
+#~ msgstr "Conocimmiento"
+
+#~ msgid "Skill"
+#~ msgstr "Habilidad"
+
+#~ msgid "Category"
+#~ msgstr "Categoría"
